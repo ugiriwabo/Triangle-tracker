@@ -32,10 +32,8 @@ CSS
 
 If you have some issues running this application,contact me at ugiraconsole@gmail.com
 
-###License and Copyright information
+### License and Copyright information
 Copyright©2018 Triangle-tracker
 This project is licensed under the MIT License - see the License.md file for details
 
-### link
 
-```https://github.com/ugiriwabo/Triangle-tracker```
