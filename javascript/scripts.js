@@ -19,4 +19,4 @@ function triangleTracker(){
           alert(tracker[3]);
       }
 
-    }
+  }
