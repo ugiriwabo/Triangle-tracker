@@ -4,3 +4,10 @@ body{
     background-size: cover;
     
   }
+  .box {
+    float: left;
+    width: 25%;
+    padding: 50px;
+    }
+    
+  
