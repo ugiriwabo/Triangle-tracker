@@ -18,3 +18,8 @@ You would need the following to access the website
 | If two of the sides are equal, is an isoscele triangle                                                                         | 4,4,3 | isoscele              |
 | If all the side are not equal and the sum of any two side of the triangle is greater than the third side,is a scalene triangle | 6,4,2 | scalene               |
 | if the sum of any two sides of  the triangle is equal or less  than the third remaining side, then it is not a triangle        | 9,4,3 | it is not a  triangle |
+
+###Technologies used
+HTML
+JavaScript
+CSS
